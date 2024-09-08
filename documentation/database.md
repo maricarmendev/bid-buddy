@@ -1,0 +1,1 @@
+for local development we use docker-compose postgres database
